@@ -1,0 +1,20 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "colorname"
+version = "1.0.0"
+description = "Name any hex color by perceptual CIELAB distance — 281 CSS + cultural colors from designtool.tools"
+readme = "README.md"
+requires-python = ">=3.8"
+license = {text = "MIT (code) / CC-BY-4.0 (catalog data)"}
+
+[project.scripts]
+colorname = "cli.mod:main"
+
+[tool.setuptools.packages.find]
+include = ["cli*"]
+
+[tool.setuptools.package-data]
+cli = ["catalog/*.json"]

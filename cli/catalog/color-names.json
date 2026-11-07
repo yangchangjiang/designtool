@@ -1,0 +1,1688 @@
+[
+  {
+    "id": "css-aliceblue",
+    "hex": "#F0F8FF",
+    "name": "Aliceblue",
+    "cat": "css"
+  },
+  {
+    "id": "css-antiquewhite",
+    "hex": "#FAEBD7",
+    "name": "Antiquewhite",
+    "cat": "css"
+  },
+  {
+    "id": "css-aqua",
+    "hex": "#00FFFF",
+    "name": "Aqua",
+    "cat": "css"
+  },
+  {
+    "id": "css-aquamarine",
+    "hex": "#7FFFD4",
+    "name": "Aquamarine",
+    "cat": "css"
+  },
+  {
+    "id": "css-azure",
+    "hex": "#F0FFFF",
+    "name": "Azure",
+    "cat": "css"
+  },
+  {
+    "id": "css-beige",
+    "hex": "#F5F5DC",
+    "name": "Beige",
+    "cat": "css"
+  },
+  {
+    "id": "css-bisque",
+    "hex": "#FFE4C4",
+    "name": "Bisque",
+    "cat": "css"
+  },
+  {
+    "id": "css-black",
+    "hex": "#000000",
+    "name": "Black",
+    "cat": "css"
+  },
+  {
+    "id": "css-blanchedalmond",
+    "hex": "#FFEBCD",
+    "name": "Blanchedalmond",
+    "cat": "css"
+  },
+  {
+    "id": "css-blue",
+    "hex": "#0000FF",
+    "name": "Blue",
+    "cat": "css"
+  },
+  {
+    "id": "css-blueviolet",
+    "hex": "#8A2BE2",
+    "name": "Blueviolet",
+    "cat": "css"
+  },
+  {
+    "id": "css-brown",
+    "hex": "#A52A2A",
+    "name": "Brown",
+    "cat": "css"
+  },
+  {
+    "id": "css-burlywood",
+    "hex": "#DEB887",
+    "name": "Burlywood",
+    "cat": "css"
+  },
+  {
+    "id": "css-cadetblue",
+    "hex": "#5F9EA0",
+    "name": "Cadetblue",
+    "cat": "css"
+  },
+  {
+    "id": "css-chartreuse",
+    "hex": "#7FFF00",
+    "name": "Chartreuse",
+    "cat": "css"
+  },
+  {
+    "id": "css-chocolate",
+    "hex": "#D2691E",
+    "name": "Chocolate",
+    "cat": "css"
+  },
+  {
+    "id": "css-coral",
+    "hex": "#FF7F50",
+    "name": "Coral",
+    "cat": "css"
+  },
+  {
+    "id": "css-cornflowerblue",
+    "hex": "#6495ED",
+    "name": "Cornflowerblue",
+    "cat": "css"
+  },
+  {
+    "id": "css-cornsilk",
+    "hex": "#FFF8DC",
+    "name": "Cornsilk",
+    "cat": "css"
+  },
+  {
+    "id": "css-crimson",
+    "hex": "#DC143C",
+    "name": "Crimson",
+    "cat": "css"
+  },
+  {
+    "id": "css-cyan",
+    "hex": "#00FFFF",
+    "name": "Cyan",
+    "cat": "css"
+  },
+  {
+    "id": "css-darkblue",
+    "hex": "#00008B",
+    "name": "Darkblue",
+    "cat": "css"
+  },
+  {
+    "id": "css-darkcyan",
+    "hex": "#008B8B",
+    "name": "Darkcyan",
+    "cat": "css"
+  },
+  {
+    "id": "css-darkgoldenrod",
+    "hex": "#B8860B",
+    "name": "Darkgoldenrod",
+    "cat": "css"
+  },
+  {
+    "id": "css-darkgray",
+    "hex": "#A9A9A9",
+    "name": "Darkgray",
+    "cat": "css"
+  },
+  {
+    "id": "css-darkgreen",
+    "hex": "#006400",
+    "name": "Darkgreen",
+    "cat": "css"
+  },
+  {
+    "id": "css-darkkhaki",
+    "hex": "#BDB76B",
+    "name": "Darkkhaki",
+    "cat": "css"
+  },
+  {
+    "id": "css-darkmagenta",
+    "hex": "#8B008B",
+    "name": "Darkmagenta",
+    "cat": "css"
+  },
+  {
+    "id": "css-darkolivegreen",
+    "hex": "#556B2F",
+    "name": "Darkolivegreen",
+    "cat": "css"
+  },
+  {
+    "id": "css-darkorange",
+    "hex": "#FF8C00",
+    "name": "Darkorange",
+    "cat": "css"
+  },
+  {
+    "id": "css-darkorchid",
+    "hex": "#9932CC",
+    "name": "Darkorchid",
+    "cat": "css"
+  },
+  {
+    "id": "css-darkred",
+    "hex": "#8B0000",
+    "name": "Darkred",
+    "cat": "css"
+  },
+  {
+    "id": "css-darksalmon",
+    "hex": "#E9967A",
+    "name": "Darksalmon",
+    "cat": "css"
+  },
+  {
+    "id": "css-darkseagreen",
+    "hex": "#8FBC8F",
+    "name": "Darkseagreen",
+    "cat": "css"
+  },
+  {
+    "id": "css-darkslateblue",
+    "hex": "#483D8B",
+    "name": "Darkslateblue",
+    "cat": "css"
+  },
+  {
+    "id": "css-darkslategray",
+    "hex": "#2F4F4F",
+    "name": "Darkslategray",
+    "cat": "css"
+  },
+  {
+    "id": "css-darkturquoise",
+    "hex": "#00CED1",
+    "name": "Darkturquoise",
+    "cat": "css"
+  },
+  {
+    "id": "css-darkviolet",
+    "hex": "#9400D3",
+    "name": "Darkviolet",
+    "cat": "css"
+  },
+  {
+    "id": "css-deeppink",
+    "hex": "#FF1493",
+    "name": "Deeppink",
+    "cat": "css"
+  },
+  {
+    "id": "css-deepskyblue",
+    "hex": "#00BFFF",
+    "name": "Deepskyblue",
+    "cat": "css"
+  },
+  {
+    "id": "css-dimgray",
+    "hex": "#696969",
+    "name": "Dimgray",
+    "cat": "css"
+  },
+  {
+    "id": "css-dodgerblue",
+    "hex": "#1E90FF",
+    "name": "Dodgerblue",
+    "cat": "css"
+  },
+  {
+    "id": "css-firebrick",
+    "hex": "#B22222",
+    "name": "Firebrick",
+    "cat": "css"
+  },
+  {
+    "id": "css-floralwhite",
+    "hex": "#FFFAF0",
+    "name": "Floralwhite",
+    "cat": "css"
+  },
+  {
+    "id": "css-forestgreen",
+    "hex": "#228B22",
+    "name": "Forestgreen",
+    "cat": "css"
+  },
+  {
+    "id": "css-fuchsia",
+    "hex": "#FF00FF",
+    "name": "Fuchsia",
+    "cat": "css"
+  },
+  {
+    "id": "css-gainsboro",
+    "hex": "#DCDCDC",
+    "name": "Gainsboro",
+    "cat": "css"
+  },
+  {
+    "id": "css-ghostwhite",
+    "hex": "#F8F8FF",
+    "name": "Ghostwhite",
+    "cat": "css"
+  },
+  {
+    "id": "css-gold",
+    "hex": "#FFD700",
+    "name": "Gold",
+    "cat": "css"
+  },
+  {
+    "id": "css-goldenrod",
+    "hex": "#DAA520",
+    "name": "Goldenrod",
+    "cat": "css"
+  },
+  {
+    "id": "css-gray",
+    "hex": "#808080",
+    "name": "Gray",
+    "cat": "css"
+  },
+  {
+    "id": "css-green",
+    "hex": "#008000",
+    "name": "Green",
+    "cat": "css"
+  },
+  {
+    "id": "css-greenyellow",
+    "hex": "#ADFF2F",
+    "name": "Greenyellow",
+    "cat": "css"
+  },
+  {
+    "id": "css-honeydew",
+    "hex": "#F0FFF0",
+    "name": "Honeydew",
+    "cat": "css"
+  },
+  {
+    "id": "css-hotpink",
+    "hex": "#FF69B4",
+    "name": "Hotpink",
+    "cat": "css"
+  },
+  {
+    "id": "css-indianred",
+    "hex": "#CD5C5C",
+    "name": "Indianred",
+    "cat": "css"
+  },
+  {
+    "id": "css-indigo",
+    "hex": "#4B0082",
+    "name": "Indigo",
+    "cat": "css"
+  },
+  {
+    "id": "css-ivory",
+    "hex": "#FFFFF0",
+    "name": "Ivory",
+    "cat": "css"
+  },
+  {
+    "id": "css-khaki",
+    "hex": "#F0E68C",
+    "name": "Khaki",
+    "cat": "css"
+  },
+  {
+    "id": "css-lavender",
+    "hex": "#E6E6FA",
+    "name": "Lavender",
+    "cat": "css"
+  },
+  {
+    "id": "css-lavenderblush",
+    "hex": "#FFF0F5",
+    "name": "Lavenderblush",
+    "cat": "css"
+  },
+  {
+    "id": "css-lawngreen",
+    "hex": "#7CFC00",
+    "name": "Lawngreen",
+    "cat": "css"
+  },
+  {
+    "id": "css-lemonchiffon",
+    "hex": "#FFFACD",
+    "name": "Lemonchiffon",
+    "cat": "css"
+  },
+  {
+    "id": "css-lightblue",
+    "hex": "#ADD8E6",
+    "name": "Lightblue",
+    "cat": "css"
+  },
+  {
+    "id": "css-lightcoral",
+    "hex": "#F08080",
+    "name": "Lightcoral",
+    "cat": "css"
+  },
+  {
+    "id": "css-lightcyan",
+    "hex": "#E0FFFF",
+    "name": "Lightcyan",
+    "cat": "css"
+  },
+  {
+    "id": "css-lightgoldenrodyellow",
+    "hex": "#FAFAD2",
+    "name": "Lightgoldenrodyellow",
+    "cat": "css"
+  },
+  {
+    "id": "css-lightgray",
+    "hex": "#D3D3D3",
+    "name": "Lightgray",
+    "cat": "css"
+  },
+  {
+    "id": "css-lightgreen",
+    "hex": "#90EE90",
+    "name": "Lightgreen",
+    "cat": "css"
+  },
+  {
+    "id": "css-lightpink",
+    "hex": "#FFB6C1",
+    "name": "Lightpink",
+    "cat": "css"
+  },
+  {
+    "id": "css-lightsalmon",
+    "hex": "#FFA07A",
+    "name": "Lightsalmon",
+    "cat": "css"
+  },
+  {
+    "id": "css-lightseagreen",
+    "hex": "#20B2AA",
+    "name": "Lightseagreen",
+    "cat": "css"
+  },
+  {
+    "id": "css-lightskyblue",
+    "hex": "#87CEFA",
+    "name": "Lightskyblue",
+    "cat": "css"
+  },
+  {
+    "id": "css-lightslategray",
+    "hex": "#778899",
+    "name": "Lightslategray",
+    "cat": "css"
+  },
+  {
+    "id": "css-lightsteelblue",
+    "hex": "#B0C4DE",
+    "name": "Lightsteelblue",
+    "cat": "css"
+  },
+  {
+    "id": "css-lightyellow",
+    "hex": "#FFFFE0",
+    "name": "Lightyellow",
+    "cat": "css"
+  },
+  {
+    "id": "css-lime",
+    "hex": "#00FF00",
+    "name": "Lime",
+    "cat": "css"
+  },
+  {
+    "id": "css-limegreen",
+    "hex": "#32CD32",
+    "name": "Limegreen",
+    "cat": "css"
+  },
+  {
+    "id": "css-linen",
+    "hex": "#FAF0E6",
+    "name": "Linen",
+    "cat": "css"
+  },
+  {
+    "id": "css-magenta",
+    "hex": "#FF00FF",
+    "name": "Magenta",
+    "cat": "css"
+  },
+  {
+    "id": "css-maroon",
+    "hex": "#800000",
+    "name": "Maroon",
+    "cat": "css"
+  },
+  {
+    "id": "css-mediumaquamarine",
+    "hex": "#66CDAA",
+    "name": "Mediumaquamarine",
+    "cat": "css"
+  },
+  {
+    "id": "css-mediumblue",
+    "hex": "#0000CD",
+    "name": "Mediumblue",
+    "cat": "css"
+  },
+  {
+    "id": "css-mediumorchid",
+    "hex": "#BA55D3",
+    "name": "Mediumorchid",
+    "cat": "css"
+  },
+  {
+    "id": "css-mediumpurple",
+    "hex": "#9370DB",
+    "name": "Mediumpurple",
+    "cat": "css"
+  },
+  {
+    "id": "css-mediumseagreen",
+    "hex": "#3CB371",
+    "name": "Mediumseagreen",
+    "cat": "css"
+  },
+  {
+    "id": "css-mediumslateblue",
+    "hex": "#7B68EE",
+    "name": "Mediumslateblue",
+    "cat": "css"
+  },
+  {
+    "id": "css-mediumspringgreen",
+    "hex": "#00FA9A",
+    "name": "Mediumspringgreen",
+    "cat": "css"
+  },
+  {
+    "id": "css-mediumturquoise",
+    "hex": "#48D1CC",
+    "name": "Mediumturquoise",
+    "cat": "css"
+  },
+  {
+    "id": "css-mediumvioletred",
+    "hex": "#C71585",
+    "name": "Mediumvioletred",
+    "cat": "css"
+  },
+  {
+    "id": "css-midnightblue",
+    "hex": "#191970",
+    "name": "Midnightblue",
+    "cat": "css"
+  },
+  {
+    "id": "css-mintcream",
+    "hex": "#F5FFFA",
+    "name": "Mintcream",
+    "cat": "css"
+  },
+  {
+    "id": "css-mistyrose",
+    "hex": "#FFE4E1",
+    "name": "Mistyrose",
+    "cat": "css"
+  },
+  {
+    "id": "css-moccasin",
+    "hex": "#FFE4B5",
+    "name": "Moccasin",
+    "cat": "css"
+  },
+  {
+    "id": "css-navajowhite",
+    "hex": "#FFDEAD",
+    "name": "Navajowhite",
+    "cat": "css"
+  },
+  {
+    "id": "css-navy",
+    "hex": "#000080",
+    "name": "Navy",
+    "cat": "css"
+  },
+  {
+    "id": "css-oldlace",
+    "hex": "#FDF5E6",
+    "name": "Oldlace",
+    "cat": "css"
+  },
+  {
+    "id": "css-olive",
+    "hex": "#808000",
+    "name": "Olive",
+    "cat": "css"
+  },
+  {
+    "id": "css-olivedrab",
+    "hex": "#6B8E23",
+    "name": "Olivedrab",
+    "cat": "css"
+  },
+  {
+    "id": "css-orange",
+    "hex": "#FFA500",
+    "name": "Orange",
+    "cat": "css"
+  },
+  {
+    "id": "css-orangered",
+    "hex": "#FF4500",
+    "name": "Orangered",
+    "cat": "css"
+  },
+  {
+    "id": "css-orchid",
+    "hex": "#DA70D6",
+    "name": "Orchid",
+    "cat": "css"
+  },
+  {
+    "id": "css-palegoldenrod",
+    "hex": "#EEE8AA",
+    "name": "Palegoldenrod",
+    "cat": "css"
+  },
+  {
+    "id": "css-palegreen",
+    "hex": "#98FB98",
+    "name": "Palegreen",
+    "cat": "css"
+  },
+  {
+    "id": "css-paleturquoise",
+    "hex": "#AFEEEE",
+    "name": "Paleturquoise",
+    "cat": "css"
+  },
+  {
+    "id": "css-palevioletred",
+    "hex": "#DB7093",
+    "name": "Palevioletred",
+    "cat": "css"
+  },
+  {
+    "id": "css-papayawhip",
+    "hex": "#FFEFD5",
+    "name": "Papayawhip",
+    "cat": "css"
+  },
+  {
+    "id": "css-peachpuff",
+    "hex": "#FFDAB9",
+    "name": "Peachpuff",
+    "cat": "css"
+  },
+  {
+    "id": "css-peru",
+    "hex": "#CD853F",
+    "name": "Peru",
+    "cat": "css"
+  },
+  {
+    "id": "css-pink",
+    "hex": "#FFC0CB",
+    "name": "Pink",
+    "cat": "css"
+  },
+  {
+    "id": "css-plum",
+    "hex": "#DDA0DD",
+    "name": "Plum",
+    "cat": "css"
+  },
+  {
+    "id": "css-powderblue",
+    "hex": "#B0E0E6",
+    "name": "Powderblue",
+    "cat": "css"
+  },
+  {
+    "id": "css-purple",
+    "hex": "#800080",
+    "name": "Purple",
+    "cat": "css"
+  },
+  {
+    "id": "css-rebeccapurple",
+    "hex": "#663399",
+    "name": "Rebeccapurple",
+    "cat": "css"
+  },
+  {
+    "id": "css-red",
+    "hex": "#FF0000",
+    "name": "Red",
+    "cat": "css"
+  },
+  {
+    "id": "css-rosybrown",
+    "hex": "#BC8F8F",
+    "name": "Rosybrown",
+    "cat": "css"
+  },
+  {
+    "id": "css-royalblue",
+    "hex": "#4169E1",
+    "name": "Royalblue",
+    "cat": "css"
+  },
+  {
+    "id": "css-saddlebrown",
+    "hex": "#8B4513",
+    "name": "Saddlebrown",
+    "cat": "css"
+  },
+  {
+    "id": "css-salmon",
+    "hex": "#FA8072",
+    "name": "Salmon",
+    "cat": "css"
+  },
+  {
+    "id": "css-sandybrown",
+    "hex": "#F4A460",
+    "name": "Sandybrown",
+    "cat": "css"
+  },
+  {
+    "id": "css-seagreen",
+    "hex": "#2E8B57",
+    "name": "Seagreen",
+    "cat": "css"
+  },
+  {
+    "id": "css-seashell",
+    "hex": "#FFF5EE",
+    "name": "Seashell",
+    "cat": "css"
+  },
+  {
+    "id": "css-sienna",
+    "hex": "#A0522D",
+    "name": "Sienna",
+    "cat": "css"
+  },
+  {
+    "id": "css-silver",
+    "hex": "#C0C0C0",
+    "name": "Silver",
+    "cat": "css"
+  },
+  {
+    "id": "css-skyblue",
+    "hex": "#87CEEB",
+    "name": "Skyblue",
+    "cat": "css"
+  },
+  {
+    "id": "css-slateblue",
+    "hex": "#6A5ACD",
+    "name": "Slateblue",
+    "cat": "css"
+  },
+  {
+    "id": "css-slategray",
+    "hex": "#708090",
+    "name": "Slategray",
+    "cat": "css"
+  },
+  {
+    "id": "css-snow",
+    "hex": "#FFFAFA",
+    "name": "Snow",
+    "cat": "css"
+  },
+  {
+    "id": "css-springgreen",
+    "hex": "#00FF7F",
+    "name": "Springgreen",
+    "cat": "css"
+  },
+  {
+    "id": "css-steelblue",
+    "hex": "#4682B4",
+    "name": "Steelblue",
+    "cat": "css"
+  },
+  {
+    "id": "css-tan",
+    "hex": "#D2B48C",
+    "name": "Tan",
+    "cat": "css"
+  },
+  {
+    "id": "css-teal",
+    "hex": "#008080",
+    "name": "Teal",
+    "cat": "css"
+  },
+  {
+    "id": "css-thistle",
+    "hex": "#D8BFD8",
+    "name": "Thistle",
+    "cat": "css"
+  },
+  {
+    "id": "css-tomato",
+    "hex": "#FF6347",
+    "name": "Tomato",
+    "cat": "css"
+  },
+  {
+    "id": "css-turquoise",
+    "hex": "#40E0D0",
+    "name": "Turquoise",
+    "cat": "css"
+  },
+  {
+    "id": "css-violet",
+    "hex": "#EE82EE",
+    "name": "Violet",
+    "cat": "css"
+  },
+  {
+    "id": "css-wheat",
+    "hex": "#F5DEB3",
+    "name": "Wheat",
+    "cat": "css"
+  },
+  {
+    "id": "css-white",
+    "hex": "#FFFFFF",
+    "name": "White",
+    "cat": "css"
+  },
+  {
+    "id": "css-whitesmoke",
+    "hex": "#F5F5F5",
+    "name": "Whitesmoke",
+    "cat": "css"
+  },
+  {
+    "id": "css-yellow",
+    "hex": "#FFFF00",
+    "name": "Yellow",
+    "cat": "css"
+  },
+  {
+    "id": "css-yellowgreen",
+    "hex": "#9ACD32",
+    "name": "Yellowgreen",
+    "cat": "css"
+  },
+  {
+    "id": "en-coral",
+    "hex": "#FF7F50",
+    "name": "Coral",
+    "cat": "en"
+  },
+  {
+    "id": "en-tomato",
+    "hex": "#FF6347",
+    "name": "Tomato",
+    "cat": "en"
+  },
+  {
+    "id": "en-goldenrod",
+    "hex": "#DAA520",
+    "name": "Goldenrod",
+    "cat": "en"
+  },
+  {
+    "id": "en-teal",
+    "hex": "#008080",
+    "name": "Teal",
+    "cat": "en"
+  },
+  {
+    "id": "en-indigo",
+    "hex": "#4B0082",
+    "name": "Indigo",
+    "cat": "en"
+  },
+  {
+    "id": "en-crimson",
+    "hex": "#DC143C",
+    "name": "Crimson",
+    "cat": "en"
+  },
+  {
+    "id": "en-slateblue",
+    "hex": "#6A5ACD",
+    "name": "Slateblue",
+    "cat": "en"
+  },
+  {
+    "id": "en-forestgreen",
+    "hex": "#228B22",
+    "name": "Forestgreen",
+    "cat": "en"
+  },
+  {
+    "id": "en-hotpink",
+    "hex": "#FF69B4",
+    "name": "Hotpink",
+    "cat": "en"
+  },
+  {
+    "id": "en-navy",
+    "hex": "#000080",
+    "name": "Navy",
+    "cat": "en"
+  },
+  {
+    "id": "es-rosa-mexicano",
+    "hex": "#E4007C",
+    "name": "Mexican Pink",
+    "cat": "es"
+  },
+  {
+    "id": "es-azul-añil",
+    "hex": "#4B0082",
+    "name": "Indigo Blue (Hispanic)",
+    "cat": "es"
+  },
+  {
+    "id": "es-rojo-bermellón",
+    "hex": "#E34234",
+    "name": "Vermilion Red (Hispanic)",
+    "cat": "es"
+  },
+  {
+    "id": "es-amarillo-maíz",
+    "hex": "#F4B41A",
+    "name": "Corn Yellow (Hispanic)",
+    "cat": "es"
+  },
+  {
+    "id": "es-verde-jade",
+    "hex": "#00A86B",
+    "name": "Jade Green (Hispanic)",
+    "cat": "es"
+  },
+  {
+    "id": "es-azul-celeste",
+    "hex": "#A5C8E1",
+    "name": "Sky Blue (Hispanic)",
+    "cat": "es"
+  },
+  {
+    "id": "es-terracota",
+    "hex": "#E2725B",
+    "name": "Terracotta (Hispanic)",
+    "cat": "es"
+  },
+  {
+    "id": "es-vino-tinto",
+    "hex": "#722F37",
+    "name": "Red Wine (Hispanic)",
+    "cat": "es"
+  },
+  {
+    "id": "es-oro-colonial",
+    "hex": "#D4AF37",
+    "name": "Colonial Gold (Hispanic)",
+    "cat": "es"
+  },
+  {
+    "id": "es-turquesa-caribe",
+    "hex": "#40E0D0",
+    "name": "Caribbean Turquoise (Hispanic)",
+    "cat": "es"
+  },
+  {
+    "id": "pt-verde-bandeira",
+    "hex": "#009C3B",
+    "name": "Flag Green (Brazilian)",
+    "cat": "pt"
+  },
+  {
+    "id": "pt-amarelo-bandeira",
+    "hex": "#FFDF00",
+    "name": "Flag Yellow (Brazilian)",
+    "cat": "pt"
+  },
+  {
+    "id": "pt-azul-bandeira",
+    "hex": "#002776",
+    "name": "Flag Blue (Brazilian)",
+    "cat": "pt"
+  },
+  {
+    "id": "pt-azul-azulejo",
+    "hex": "#1E5FA8",
+    "name": "Azulejo Tile Blue (Portuguese)",
+    "cat": "pt"
+  },
+  {
+    "id": "pt-rosa-choque",
+    "hex": "#FF1493",
+    "name": "Shocking Pink (Brazilian)",
+    "cat": "pt"
+  },
+  {
+    "id": "pt-verde-amazônia",
+    "hex": "#228B22",
+    "name": "Amazon Green (Brazilian)",
+    "cat": "pt"
+  },
+  {
+    "id": "pt-amarelo-ouro",
+    "hex": "#FFD700",
+    "name": "Gold Yellow (Brazilian)",
+    "cat": "pt"
+  },
+  {
+    "id": "pt-terracota-nordestina",
+    "hex": "#CD5C5C",
+    "name": "Northeast Terracotta (Brazilian)",
+    "cat": "pt"
+  },
+  {
+    "id": "pt-anil",
+    "hex": "#4B0082",
+    "name": "Anil Indigo (Brazilian)",
+    "cat": "pt"
+  },
+  {
+    "id": "pt-branco-areia",
+    "hex": "#EDE4D3",
+    "name": "Sandy White (Brazilian)",
+    "cat": "pt"
+  },
+  {
+    "id": "fr-bleu-de-france",
+    "hex": "#318CE7",
+    "name": "Blue of France",
+    "cat": "fr"
+  },
+  {
+    "id": "fr-rouge-coquelicot",
+    "hex": "#FF3800",
+    "name": "Poppy Red (French)",
+    "cat": "fr"
+  },
+  {
+    "id": "fr-vert-émeraude",
+    "hex": "#50C878",
+    "name": "Emerald Green (French)",
+    "cat": "fr"
+  },
+  {
+    "id": "fr-jaune-de-naples",
+    "hex": "#FADA5E",
+    "name": "Naples Yellow (French)",
+    "cat": "fr"
+  },
+  {
+    "id": "fr-rose-bonbon",
+    "hex": "#F9429E",
+    "name": "Candy Pink (French)",
+    "cat": "fr"
+  },
+  {
+    "id": "fr-bleu-roi",
+    "hex": "#4169E1",
+    "name": "Royal Blue (French)",
+    "cat": "fr"
+  },
+  {
+    "id": "fr-bordeaux",
+    "hex": "#800020",
+    "name": "Bordeaux Red (French)",
+    "cat": "fr"
+  },
+  {
+    "id": "fr-gris-perle",
+    "hex": "#B0B7C3",
+    "name": "Pearl Grey (French)",
+    "cat": "fr"
+  },
+  {
+    "id": "fr-lavande",
+    "hex": "#967BB6",
+    "name": "Lavender (French)",
+    "cat": "fr"
+  },
+  {
+    "id": "fr-crème",
+    "hex": "#FFFDD0",
+    "name": "Cream (French)",
+    "cat": "fr"
+  },
+  {
+    "id": "de-bauhaus-rot",
+    "hex": "#BE1E2D",
+    "name": "Bauhaus Red",
+    "cat": "de"
+  },
+  {
+    "id": "de-bauhaus-gelb",
+    "hex": "#FFDE17",
+    "name": "Bauhaus Yellow",
+    "cat": "de"
+  },
+  {
+    "id": "de-bauhaus-blau",
+    "hex": "#00509E",
+    "name": "Bauhaus Blue",
+    "cat": "de"
+  },
+  {
+    "id": "de-ultramarin",
+    "hex": "#120A8F",
+    "name": "Ultramarine",
+    "cat": "de"
+  },
+  {
+    "id": "de-ocker",
+    "hex": "#C78B2C",
+    "name": "Ochre (German)",
+    "cat": "de"
+  },
+  {
+    "id": "de-petrol",
+    "hex": "#006D7C",
+    "name": "Petrol Teal (German)",
+    "cat": "de"
+  },
+  {
+    "id": "de-lindgrün",
+    "hex": "#7CBA3D",
+    "name": "Lime Green (German)",
+    "cat": "de"
+  },
+  {
+    "id": "de-ziegelrot",
+    "hex": "#B22222",
+    "name": "Brick Red (German)",
+    "cat": "de"
+  },
+  {
+    "id": "de-graphit",
+    "hex": "#38383A",
+    "name": "Graphite Grey (German)",
+    "cat": "de"
+  },
+  {
+    "id": "de-weiß",
+    "hex": "#F4F4F4",
+    "name": "Pure White (German)",
+    "cat": "de"
+  },
+  {
+    "id": "ar-لازوردي",
+    "hex": "#26619C",
+    "name": "Lapis Blue (Islamic)",
+    "cat": "ar"
+  },
+  {
+    "id": "ar-فيروزي",
+    "hex": "#40D0C0",
+    "name": "Turquoise (Islamic)",
+    "cat": "ar"
+  },
+  {
+    "id": "ar-زمردي",
+    "hex": "#50C878",
+    "name": "Emerald (Islamic)",
+    "cat": "ar"
+  },
+  {
+    "id": "ar-ذهبي",
+    "hex": "#D4AF37",
+    "name": "Gold (Islamic)",
+    "cat": "ar"
+  },
+  {
+    "id": "ar-نيلي",
+    "hex": "#4B0082",
+    "name": "Indigo (Islamic)",
+    "cat": "ar"
+  },
+  {
+    "id": "ar-قرمزي",
+    "hex": "#DC143C",
+    "name": "Crimson (Islamic)",
+    "cat": "ar"
+  },
+  {
+    "id": "ar-عاجي",
+    "hex": "#FFFFF0",
+    "name": "Ivory (Islamic)",
+    "cat": "ar"
+  },
+  {
+    "id": "ar-كحلي",
+    "hex": "#000080",
+    "name": "Navy (Islamic)",
+    "cat": "ar"
+  },
+  {
+    "id": "ar-بنفسجي",
+    "hex": "#800080",
+    "name": "Purple (Islamic)",
+    "cat": "ar"
+  },
+  {
+    "id": "ar-رملي",
+    "hex": "#C2B280",
+    "name": "Sand (Islamic)",
+    "cat": "ar"
+  },
+  {
+    "id": "hi-केसरिया",
+    "hex": "#FF9933",
+    "name": "Saffron Orange (Indian)",
+    "cat": "hi"
+  },
+  {
+    "id": "hi-हरा",
+    "hex": "#138808",
+    "name": "India Green (Indian)",
+    "cat": "hi"
+  },
+  {
+    "id": "hi-अशोक-चक्र-नीला",
+    "hex": "#000080",
+    "name": "Ashoka Chakra Blue (Indian)",
+    "cat": "hi"
+  },
+  {
+    "id": "hi-गुलाबी",
+    "hex": "#FF007F",
+    "name": "Rose Pink (Indian)",
+    "cat": "hi"
+  },
+  {
+    "id": "hi-हल्दी",
+    "hex": "#E3A857",
+    "name": "Turmeric Yellow (Indian)",
+    "cat": "hi"
+  },
+  {
+    "id": "hi-गेरू",
+    "hex": "#CC7722",
+    "name": "Ochre (Indian)",
+    "cat": "hi"
+  },
+  {
+    "id": "hi-नील",
+    "hex": "#4B0082",
+    "name": "Indigo (Indian)",
+    "cat": "hi"
+  },
+  {
+    "id": "hi-सिंदूरी",
+    "hex": "#E34234",
+    "name": "Vermilion (Indian)",
+    "cat": "hi"
+  },
+  {
+    "id": "hi-गेंदा",
+    "hex": "#FFA500",
+    "name": "Marigold Orange (Indian)",
+    "cat": "hi"
+  },
+  {
+    "id": "hi-मेहंदी",
+    "hex": "#6B8E23",
+    "name": "Henna Green (Indian)",
+    "cat": "hi"
+  },
+  {
+    "id": "th-แดงธงชาติ",
+    "hex": "#A51931",
+    "name": "Thai Flag Red",
+    "cat": "th"
+  },
+  {
+    "id": "th-ขาวธงชาติ",
+    "hex": "#F4F5F8",
+    "name": "Thai Flag White",
+    "cat": "th"
+  },
+  {
+    "id": "th-น้ำเงินธงชาติ",
+    "hex": "#2D2A4A",
+    "name": "Thai Flag Blue",
+    "cat": "th"
+  },
+  {
+    "id": "th-เหลืองทอง",
+    "hex": "#FFD700",
+    "name": "Golden Yellow (Thai)",
+    "cat": "th"
+  },
+  {
+    "id": "th-เขียวใบไม้",
+    "hex": "#228B22",
+    "name": "Leaf Green (Thai)",
+    "cat": "th"
+  },
+  {
+    "id": "th-ชมพูบัว",
+    "hex": "#F4A0B5",
+    "name": "Lotus Pink (Thai)",
+    "cat": "th"
+  },
+  {
+    "id": "th-ส้มจีวร",
+    "hex": "#FF7F00",
+    "name": "Monk Robe Orange (Thai)",
+    "cat": "th"
+  },
+  {
+    "id": "th-ฟ้าน้ำทะเล",
+    "hex": "#00A3AF",
+    "name": "Sea Blue (Thai)",
+    "cat": "th"
+  },
+  {
+    "id": "th-ม่วงอัญชัน",
+    "hex": "#6A4C93",
+    "name": "Butterfly Pea Purple (Thai)",
+    "cat": "th"
+  },
+  {
+    "id": "th-เขียวมรกต",
+    "hex": "#50C878",
+    "name": "Emerald Green (Thai)",
+    "cat": "th"
+  },
+  {
+    "id": "vi-đỏ-son",
+    "hex": "#E32636",
+    "name": "Vermilion Red (Hispanic)",
+    "cat": "vi"
+  },
+  {
+    "id": "vi-vàng-hoàng-thái",
+    "hex": "#FFD700",
+    "name": "Imperial Yellow (Vietnamese)",
+    "cat": "vi"
+  },
+  {
+    "id": "vi-xanh-lam",
+    "hex": "#0056A7",
+    "name": "Lam Blue (Vietnamese)",
+    "cat": "vi"
+  },
+  {
+    "id": "vi-màu-gạch",
+    "hex": "#B22222",
+    "name": "Brick Red (Vietnamese)",
+    "cat": "vi"
+  },
+  {
+    "id": "vi-vàng-nắng",
+    "hex": "#F7C948",
+    "name": "Sunshine Yellow (Vietnamese)",
+    "cat": "vi"
+  },
+  {
+    "id": "vi-xanh-ngọc",
+    "hex": "#00A86B",
+    "name": "Jade Green (Vietnamese)",
+    "cat": "vi"
+  },
+  {
+    "id": "vi-tím-huế",
+    "hex": "#7F5FA3",
+    "name": "Hue Purple (Vietnamese)",
+    "cat": "vi"
+  },
+  {
+    "id": "vi-nâu-đất",
+    "hex": "#8B5A2B",
+    "name": "Earth Brown (Vietnamese)",
+    "cat": "vi"
+  },
+  {
+    "id": "vi-hồng-sen",
+    "hex": "#F5A9B8",
+    "name": "Lotus Pink (Thai)",
+    "cat": "vi"
+  },
+  {
+    "id": "vi-trắng-ngà",
+    "hex": "#FFFFF0",
+    "name": "Ivory White (Vietnamese)",
+    "cat": "vi"
+  },
+  {
+    "id": "id-coklat-sogan",
+    "hex": "#8B4513",
+    "name": "Sogan Brown (Batik)",
+    "cat": "id"
+  },
+  {
+    "id": "id-biru-indigo",
+    "hex": "#1A3A5C",
+    "name": "Indigo Blue (Hispanic)",
+    "cat": "id"
+  },
+  {
+    "id": "id-merah-batik",
+    "hex": "#C41E3A",
+    "name": "Batik Red",
+    "cat": "id"
+  },
+  {
+    "id": "id-kuning-kunyit",
+    "hex": "#E3A857",
+    "name": "Turmeric Yellow (Indian)",
+    "cat": "id"
+  },
+  {
+    "id": "id-hijau-lumut",
+    "hex": "#8A9A5B",
+    "name": "Moss Green (Batik)",
+    "cat": "id"
+  },
+  {
+    "id": "id-ungu-terong",
+    "hex": "#614051",
+    "name": "Eggplant Purple (Batik)",
+    "cat": "id"
+  },
+  {
+    "id": "id-krem-batik",
+    "hex": "#F5F0E1",
+    "name": "Cream Batik",
+    "cat": "id"
+  },
+  {
+    "id": "id-hitam-pekat",
+    "hex": "#1B1B1B",
+    "name": "Deep Black (Batik)",
+    "cat": "id"
+  },
+  {
+    "id": "id-biru-langit",
+    "hex": "#4A90D9",
+    "name": "Sky Blue (Hispanic)",
+    "cat": "id"
+  },
+  {
+    "id": "id-oranye-jingga",
+    "hex": "#FF7F00",
+    "name": "Vivid Orange (Batik)",
+    "cat": "id"
+  },
+  {
+    "id": "ru-алый",
+    "hex": "#FF2400",
+    "name": "Scarlet (Russian)",
+    "cat": "ru"
+  },
+  {
+    "id": "ru-васильковый",
+    "hex": "#6495ED",
+    "name": "Cornflower Blue (Russian)",
+    "cat": "ru"
+  },
+  {
+    "id": "ru-золото-хохломы",
+    "hex": "#D4AF37",
+    "name": "Khokhloma Gold (Russian)",
+    "cat": "ru"
+  },
+  {
+    "id": "ru-гжель-синий",
+    "hex": "#005A9C",
+    "name": "Gzhel Blue (Russian)",
+    "cat": "ru"
+  },
+  {
+    "id": "ru-изумрудный",
+    "hex": "#50C878",
+    "name": "Emerald (Russian)",
+    "cat": "ru"
+  },
+  {
+    "id": "ru-бордовый",
+    "hex": "#800020",
+    "name": "Burgundy (Russian)",
+    "cat": "ru"
+  },
+  {
+    "id": "ru-янтарный",
+    "hex": "#FFBF00",
+    "name": "Amber (Russian)",
+    "cat": "ru"
+  },
+  {
+    "id": "ru-сиреневый",
+    "hex": "#C8A2C8",
+    "name": "Lilac (Russian)",
+    "cat": "ru"
+  },
+  {
+    "id": "ru-охристый",
+    "hex": "#CC7722",
+    "name": "Ochre (Russian)",
+    "cat": "ru"
+  },
+  {
+    "id": "ru-снежно-белый",
+    "hex": "#F8F8FF",
+    "name": "Snow White (Russian)",
+    "cat": "ru"
+  },
+  {
+    "id": "zh-CN-胭脂",
+    "hex": "#9D2933",
+    "name": "Rouge (Chinese)",
+    "cat": "zh-CN"
+  },
+  {
+    "id": "zh-CN-朱砂",
+    "hex": "#FF461F",
+    "name": "Vermilion (Chinese)",
+    "cat": "zh-CN"
+  },
+  {
+    "id": "zh-CN-黛蓝",
+    "hex": "#425066",
+    "name": "Indigo Blue (Chinese)",
+    "cat": "zh-CN"
+  },
+  {
+    "id": "zh-CN-竹青",
+    "hex": "#789262",
+    "name": "Bamboo Green (Chinese)",
+    "cat": "zh-CN"
+  },
+  {
+    "id": "zh-CN-月白",
+    "hex": "#D6ECF0",
+    "name": "Moon White (Chinese)",
+    "cat": "zh-CN"
+  },
+  {
+    "id": "zh-CN-藤黄",
+    "hex": "#FFB61E",
+    "name": "Gamboge Yellow (Chinese)",
+    "cat": "zh-CN"
+  },
+  {
+    "id": "zh-CN-藕荷",
+    "hex": "#E4C6D0",
+    "name": "Lotus Pink (Chinese)",
+    "cat": "zh-CN"
+  },
+  {
+    "id": "zh-CN-秋香",
+    "hex": "#D9B611",
+    "name": "Autumn Fragrance (Chinese)",
+    "cat": "zh-CN"
+  },
+  {
+    "id": "zh-CN-石绿",
+    "hex": "#16A951",
+    "name": "Mineral Green (Chinese)",
+    "cat": "zh-CN"
+  },
+  {
+    "id": "zh-CN-墨色",
+    "hex": "#50616D",
+    "name": "Ink Black (Chinese)",
+    "cat": "zh-CN"
+  },
+  {
+    "id": "ja-山吹色",
+    "hex": "#F8B500",
+    "name": "Yamabuki Yellow (Japanese)",
+    "cat": "ja"
+  },
+  {
+    "id": "ja-撫子色",
+    "hex": "#EEA9A9",
+    "name": "Nadeshiko Pink (Japanese)",
+    "cat": "ja"
+  },
+  {
+    "id": "ja-浅葱色",
+    "hex": "#00A3AF",
+    "name": "Asagi Blue-Green (Japanese)",
+    "cat": "ja"
+  },
+  {
+    "id": "ja-茜色",
+    "hex": "#B7282E",
+    "name": "Akane Madder Red (Japanese)",
+    "cat": "ja"
+  },
+  {
+    "id": "ja-若草色",
+    "hex": "#C3D825",
+    "name": "Young Grass Green (Japanese)",
+    "cat": "ja"
+  },
+  {
+    "id": "ja-瑠璃色",
+    "hex": "#1E50A2",
+    "name": "Ruri Lapis Blue (Japanese)",
+    "cat": "ja"
+  },
+  {
+    "id": "ja-桜色",
+    "hex": "#FEF4F4",
+    "name": "Sakura Pink (Japanese)",
+    "cat": "ja"
+  },
+  {
+    "id": "ja-藤色",
+    "hex": "#BBBCDE",
+    "name": "Fuji Wisteria Purple (Japanese)",
+    "cat": "ja"
+  },
+  {
+    "id": "ja-常磐色",
+    "hex": "#007B43",
+    "name": "Tokiwa Evergreen (Japanese)",
+    "cat": "ja"
+  },
+  {
+    "id": "ja-小豆色",
+    "hex": "#96514D",
+    "name": "Azuki Bean Brown (Japanese)",
+    "cat": "ja"
+  },
+  {
+    "id": "ko-청색",
+    "hex": "#3B5BA5",
+    "name": "Cheong Blue (Korean)",
+    "cat": "ko"
+  },
+  {
+    "id": "ko-적색",
+    "hex": "#C12127",
+    "name": "Jeok Red (Korean)",
+    "cat": "ko"
+  },
+  {
+    "id": "ko-황색",
+    "hex": "#EAC102",
+    "name": "Hwang Yellow (Korean)",
+    "cat": "ko"
+  },
+  {
+    "id": "ko-백색",
+    "hex": "#F5F5F5",
+    "name": "Baek White (Korean)",
+    "cat": "ko"
+  },
+  {
+    "id": "ko-흑색",
+    "hex": "#17191C",
+    "name": "Heuk Black (Korean)",
+    "cat": "ko"
+  },
+  {
+    "id": "ko-쪽빛",
+    "hex": "#0067A3",
+    "name": "Jjok Indigo (Korean)",
+    "cat": "ko"
+  },
+  {
+    "id": "ko-연두색",
+    "hex": "#81C147",
+    "name": "Yeondu Yellow-Green (Korean)",
+    "cat": "ko"
+  },
+  {
+    "id": "ko-살구색",
+    "hex": "#F7CE68",
+    "name": "Salgu Apricot (Korean)",
+    "cat": "ko"
+  },
+  {
+    "id": "ko-자주색",
+    "hex": "#583B7E",
+    "name": "Jaju Purple (Korean)",
+    "cat": "ko"
+  },
+  {
+    "id": "ko-단청색",
+    "hex": "#2E8B8B",
+    "name": "Dancheong Blue-Green (Korean)",
+    "cat": "ko"
+  }
+]
